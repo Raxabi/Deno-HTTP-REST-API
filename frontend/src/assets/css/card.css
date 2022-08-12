@@ -1,0 +1,14 @@
+#distro-card {
+    width: 18rem;
+    background-color: white;
+    color: black;
+    padding: 10px;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+#distro-card-img:hover {
+    transition: all 1s ease-in-out;
+    transform: scale(1.2);
+}
